@@ -5,10 +5,9 @@
   gap: 48px;
 
   &__card {
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
-    width: $card-size;
     height: 300px;
     border: 1px solid #ccc;
     border-radius: 5px;
